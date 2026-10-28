@@ -34,8 +34,7 @@ A portfolio website engineered with **Next.js 15 (App Router)**, **React 19**, a
 | **Frontend Framework** | [Next.js 15](https://nextjs.org/) (App Router), [React 19](https://react.dev/) |
 | **Language** | [TypeScript](https://www.typescriptlang.org/) (Strict Mode) |
 | **Styling & Design System** | [Tailwind CSS](https://tailwindcss.com/), CSS Variables, Glassmorphism |
-| **Icons & Typography** | [Lucide React](https://lucide.dev/), [Heroicons](https://heroicons.com/), [DM Sans](https://fonts.google.com/specimen/DM+Sans) |
-| **Visualizations & 3D** | Canvas, WebGL, [xeokit](https://xeokit.io/), [Recharts](https://recharts.org/) |
+| **Icons & Typography** | [Lucide React](https://lucide.dev/), [DM Sans](https://fonts.google.com/specimen/DM+Sans) |
 
 ---
 
